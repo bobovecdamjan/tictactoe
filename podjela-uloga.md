@@ -1,6 +1,6 @@
 # **PODJELA ULOGA**
 
-## Provjeriti radi li kod kao što je zamišljeno - *Marta *
+## Provjeriti radi li kod kao što je zamišljeno - *Marta*
 ## Prepraviti kod tako da više ljudi lako može dodavati ostale funkcionalnosti koje su navedene ispod - *Josip*
 ## Provjeriti je li korisnik ispravno unjeo koordinate (trenutno se ne provjerava) - *Nika*
 ## Igrači bi trebali moći unesti svoja imena pa im program dodjeljuje jesu li X ili O - *Ana*
